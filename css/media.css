@@ -1,0 +1,731 @@
+@media (max-width: 1710px) {
+    .banner-img img {
+        padding-left: 0;
+    }
+
+    .mobile-shape1 {
+        left: -22%;
+    }
+
+    .mobile-shape2 {
+        right: -47%;
+    }
+}
+
+@media (max-width: 1599px) {
+    .mobile-shape2 {
+        right: -26%;
+    }
+}
+
+@media (max-width:1399px) {
+    .banner-area {
+        min-height: 1000px;
+    }
+
+    .banner-img img:first-child {
+        max-width: 100%;
+    }
+
+    .mobile-shape1,
+    .mobile-shape2 {
+        max-width: 65%;
+    }
+
+    .mobile-shape2 {
+        bottom: 7%;
+        right: -8%;
+    }
+
+    .slider-text {
+        padding-top: 300px;
+    }
+
+    .shape2 {
+        left: 43%;
+        bottom: 13%;
+    }
+
+    .fea-shape1 {
+        top: -15%;
+        width: 16%;
+    }
+
+    .fea-shape2 {
+        top: -15%;
+        width: 20%;
+    }
+
+    .wave-shape {
+        top: 2000px;
+    }
+
+    .hows-works-1st-image img {
+        max-width: 100%;
+    }
+
+    .pricing-area {
+        padding-top: 65px;
+    }
+
+    .features-area {
+        padding-bottom: 80px;
+    }
+
+    .testimonial-area {
+        padding: 340px 0 80px;
+    }
+
+    .screenshot-area {
+        padding-top: 100px;
+        padding-bottom: 0;
+    }
+
+    .faq-area {
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+
+    .brands-area {
+        padding-top: 0;
+        padding-bottom: 20px;
+    }
+
+    .blog-area .blog-content {
+        padding: 0 22px;
+    }
+
+    .subscribers-area {
+        padding-top: 0;
+    }
+}
+
+@media (max-width:1199px) {
+    .main-menu nav ul li {
+        display: inline-block;
+        margin-left: 25px;
+    }
+
+    .banner-area .banner-heading h1 {
+        padding-right: 0px;
+        font-size: 52px;
+    }
+
+    .shape1 {
+        top: 13%;
+    }
+
+    .slider-text {
+        padding-top: 250px;
+    }
+
+    .banner-img {
+        margin-top: 130px;
+    }
+
+    .banner-area {
+        min-height: 838px;
+    }
+
+    .shape2 {
+        width: 10%;
+    }
+
+    .single-feature .fea-text p {
+        padding: 25px 10px 0;
+    }
+
+    .video-area {
+        padding-bottom: 80px;
+    }
+
+    .how-works-area .col-lg-5 {
+        padding-top: 100px;
+    }
+
+    .pricing-area {
+        margin-bottom: -160px;
+    }
+
+    .how-works-1st-cont h2 {
+        font-size: 30px;
+    }
+
+    .testimonial-active h3 {
+        font-size: 26px;
+    }
+
+    .testimonial-area {
+        padding: 240px 0 50px;
+    }
+
+    .faq-accordion-area {
+        padding-top: 0;
+    }
+
+    .faq-image img {
+        padding-top: 60px;
+    }
+
+    .blog-area .inner-blog-sec {
+        padding: 25px 25px 31px;
+    }
+
+    .mobile-shape2 {
+        right: -7%;
+    }
+
+    .banner-area .com-btn a,
+    .btn-border a {
+        padding: 20px 50px;
+    }
+
+    .video-area .container {
+        min-height: 500px;
+    }
+
+    .video__play__btn {
+        width: 120px;
+        height: 120px;
+    }
+}
+
+@media (max-width:991px) {
+    .heaader-area {
+        padding-top: 25px;
+    }
+
+    .mean-container a.meanmenu-reveal {
+        border: 0;
+        color: #fff;
+        padding: 0;
+        margin-top: -30px;
+    }
+
+    .mean-container a.meanmenu-reveal span {
+        background: #fff none repeat scroll 0 0;
+    }
+
+    header .stick {
+        padding: 20px 0 5px;
+    }
+
+    .slider-text {
+        padding-top: 180px;
+    }
+
+    .banner-area {
+        min-height: 720px;
+    }
+
+    .shape2 {
+        left: 75%;
+        bottom: 10%;
+        width: 15%;
+    }
+
+    .shape1 {
+        width: 10%;
+    }
+
+    .mean-container .mean-nav {
+        background: -o-linear-gradient(304deg, rgb(47, 50, 212) 0%, rgb(113, 66, 247) 100%);
+        background: linear-gradient(146deg, rgb(47, 50, 212) 0%, rgb(113, 66, 247) 100%);
+    }
+
+    .mean-container .mean-nav ul li a {
+        border-top: 0;
+        padding: 20px 5%;
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .mean-container .mean-nav ul li:last-child {
+        display: -ms-grid;
+        display: grid;
+        place-items: center;
+        margin-bottom: 20px;
+    }
+
+    .mean-container .mean-nav ul li:last-child a {
+        width: 20%;
+        margin: auto;
+    }
+
+    .features-area {
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+
+    .single-feature .fea-text p {
+        padding: 15px 20px 0;
+    }
+
+    .video-area .container {
+        min-height: 380px;
+    }
+
+    .fea-text {
+        padding-top: 20px;
+    }
+
+    .how-works-area .col-lg-5 {
+        padding-top: 0;
+    }
+
+    .how-works-1st-cont h2 {
+        font-size: 27px;
+    }
+
+    .com-btn {
+        padding-top: 20px;
+    }
+
+    .com-btn a {
+        padding: 20px 30px;
+        font-size: 14px;
+    }
+
+    .how-works-area .row:first-child {
+        padding-bottom: 50px;
+    }
+
+    .pricing-single-box {
+        margin-bottom: 50px;
+    }
+
+    .testimonial-area {
+        padding: 170px 0 50px;
+    }
+
+    .faq-image img {
+        padding-top: 10px;
+    }
+
+    .faq-area {
+        padding-bottom: 67px;
+    }
+
+    .blog-area .inner-blog-sec {
+        padding: 25px 30px 31px;
+    }
+
+    .latest-single-blog {
+        margin-bottom: 50px;
+    }
+
+    .blog-area {
+        padding-bottom: 20px;
+    }
+
+    .subscribers-area .container {
+        padding: 40px 0 55px;
+    }
+
+    .subscribers-area .row {
+        padding: 0 30px;
+    }
+
+    .subscribe-title {
+        text-align: center;
+        padding-bottom: 30px;
+    }
+
+    .footer-area .col-12 {
+        padding-bottom: 55px;
+    }
+
+    .download-area-title h2 {
+        font-size: 45px;
+    }
+
+    .banner-area .com-btn {
+        padding-top: 0;
+    }
+
+    .banner-area .com-btn a,
+    .btn-border a {
+        padding: 20px 50px;
+        font-size: 18px;
+    }
+
+    .pricing-single-box .com-btn {
+        padding-top: 0;
+    }
+}
+
+@media (max-width:767px) {
+    .single-counter h2 {
+        font-size: 30px;
+    }
+
+    .sec-heading h2 {
+        font-size: 40px;
+    }
+
+    .sec-para {
+        padding-top: 10px;
+    }
+
+    .sec-para p {
+        font-size: 18px;
+    }
+
+    .single-feature .fea-text p {
+        padding: 15px 0px 0;
+    }
+
+    .video-cont h2 {
+        font-size: 40px;
+    }
+
+    .video__play__btn {
+        width: 100px;
+        height: 100px;
+    }
+
+    .how-works-area .section-head {
+        padding-bottom: 50px;
+    }
+
+    .how-works-area .row:first-child {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+        flex-direction: column-reverse;
+    }
+
+    .how-works-1st-cont {
+        padding-bottom: 40px;
+    }
+
+    .testimonial-active h3 {
+        font-size: 23px;
+    }
+
+    .how-works-1st-cont h2 {
+        font-size: 35px;
+    }
+
+    .faq-area .section-head {
+        padding-bottom: 50px;
+    }
+
+    .brands-area h2 {
+        font-size: 28px;
+    }
+
+    .blog-img img {
+        display: none;
+    }
+
+    .blog-area .blog-img {
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        min-height: 300px;
+        border-radius: 20px;
+    }
+
+    .blog-area .blog-image1 {
+        background-image: url(../images/news1.jpg);
+    }
+
+    .blog-area .blog-image2 {
+        background-image: url(../images/news2.jpg);
+    }
+
+    .blog-area .blog-image3 {
+        background-image: url(../images/news3.jpg);
+    }
+
+    .section-head .sec-para p {
+        width: 100%;
+        padding: 0 30px;
+    }
+
+    .blog-area .blog-content {
+        padding: 0 50px;
+    }
+
+    .download-cont h4 {
+        font-size: 12px;
+        text-align: left;
+    }
+
+    .download-cont h2 {
+        font-size: 20px;
+    }
+
+    .download-btn img {
+        padding-right: 10px;
+    }
+}
+
+@media (max-width:575px) {
+    .subscribers-area .row {
+        margin: 0 1.5rem;
+        padding: 0;
+    }
+
+    .subscriber-form form {
+        text-align: center;
+    }
+
+    .subscribers-area .subs-btn {
+        position: inherit;
+        margin-top: 20px;
+    }
+
+    .download-theapp-sec a:first-child {
+        margin-right: 0;
+        margin-bottom: 30px;
+    }
+
+    .banner-area .banner-heading h1 {
+        font-size: 42px;
+    }
+
+    .banner-area .banner-heading h1 {
+        font-size: 39px;
+    }
+
+    .banner-btn {
+        padding-top: 30px;
+    }
+
+    .banner-area .banner-para p {
+        line-height: 1.5;
+        font-size: 23px;
+    }
+
+    .banner-area {
+        min-height: 700px;
+    }
+
+    .slider-text {
+        padding-top: 165px;
+    }
+
+    .banner-area .com-btn a,
+    .btn-border a {
+        padding: 16px 30px;
+        font-size: 14px;
+    }
+
+    .shape2 {
+        bottom: 16%;
+    }
+
+    .counter-border:after,
+    .counter-border:before {
+        display: none;
+    }
+
+    .single-counter h2 {
+        font-size: 40px;
+    }
+
+    .counter-area {
+        padding-top: 0;
+    }
+
+    .how-works-area .section-head {
+        padding-bottom: 60px;
+    }
+
+    .testimonial-active h3 {
+        font-size: 20px;
+    }
+
+    .test-img-active .test-img-item::before {
+        display: none;
+    }
+
+    .download-area-title h2 {
+        font-size: 35px;
+    }
+
+    .section-head .sec-para p {
+        width: 100%;
+        padding: 0;
+    }
+
+    .test-img-active {
+        padding: 25px 0;
+    }
+
+    .testimonial-area {
+        padding: 170px 0 20px;
+    }
+
+    #scrollUp {
+        right: 25px;
+        bottom: 30px;
+        height: 50px;
+        width: 50px;
+        font-size: 20px;
+    }
+
+    .copy-text p {
+        line-height: 1.5;
+    }
+}
+
+@media (max-width:425px) {
+    .testimonial-area {
+        overflow: hidden;
+    }
+
+    .slider-text {
+        text-align: center;
+    }
+
+    .slick-slide {
+        width: 293px;
+    }
+
+    .banner-btn {
+        display: inherit !important;
+        padding-top: 0;
+    }
+
+    .slider-text {
+        padding-top: 130px;
+    }
+
+    .banner-area .com-btn a,
+    .btn-border a {
+        margin: 0;
+        margin-top: 15px;
+    }
+
+    .banner-area .banner-heading h1 {
+        font-size: 35px;
+    }
+
+    .banner-area .banner-para p {
+        font-size: 16px;
+    }
+
+    .banner-area {
+        min-height: 625px;
+    }
+
+    .sec-heading h2 {
+        font-size: 30px;
+    }
+
+    .section-head .sec-para p {
+        width: 100%;
+        padding: 0;
+        font-size: 17px;
+    }
+
+    .features-area .section-head,
+    .pricing-area .section-head {
+        padding-bottom: 45px;
+    }
+
+    .video-area .container {
+        min-height: 300px;
+    }
+
+    .video-cont h2 {
+        font-size: 30px;
+    }
+
+    .video__play__btn {
+        width: 85px;
+        height: 85px;
+    }
+
+    .video__play__btn i {
+        font-size: 20px;
+    }
+
+    .how-works-1st-cont h2 {
+        font-size: 24px;
+    }
+
+    .blog-area .blog-content {
+        padding: 0 20px;
+    }
+
+    .subscribe-title h3 {
+        font-size: 30px;
+    }
+
+    .testimonial-active h3 {
+        font-size: 18px;
+        padding: 25px 0 20px;
+    }
+
+    .test-item span {
+        font-size: 16px;
+    }
+
+    .faq-area .faq-accordion-area .accordion-item .accordion-button {
+        padding: 30px 15px;
+    }
+
+    .faq-area .faq-accordion-area .accordion-item .accordion-body {
+        padding: 23px 15px 35px;
+    }
+
+    .header-logo img {
+        max-width: 65%;
+    }
+
+    .mean-container a.meanmenu-reveal {
+        margin-top: -23px;
+    }
+
+    .screenshot-area {
+        padding-top: 60px;
+    }
+
+    .subscribe-title {
+        padding-bottom: 20px;
+    }
+
+    .subscribe-title h3 {
+        font-size: 22px;
+    }
+
+    .subscriber-form form input {
+        padding: 0 15px;
+        height: 55px;
+    }
+
+    .subscribers-area .subs-btn {
+        padding: 15px 20px;
+        font-size: 14px;
+        margin-top: 10px;
+    }
+
+    .brands-area h2 {
+        font-size: 22px;
+    }
+
+    .download-area-title h2 {
+        font-size: 32px;
+    }
+
+    .footer-area .col-12 {
+        padding-bottom: 40px;
+    }
+
+    .subscribers-area {
+        padding-top: 0;
+        padding-bottom: 30px;
+    }
+
+    .copy-right-area {
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+    .mean-container .mean-nav ul li:last-child a {
+        width: 37%;
+    }
+}

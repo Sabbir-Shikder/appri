@@ -1,0 +1,48 @@
+/*
+===========================
+Header Sticky
+===========================
+*/
+.header-sticky.stick {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	-webkit-animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
+	animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
+	z-index: 99999;
+	background: linear-gradient(146deg, rgb(47, 50, 212) 0%, rgb(113, 66, 247) 100%);
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px,
+	rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+
+}
+
+@-webkit-keyframes fadeInDown {
+	0% {
+		opacity: 0;
+		-webkit-transform: translateY(-20px);
+		transform: translateY(-20px);
+	}
+
+	100% {
+		opacity: 1;
+		-webkit-transform: translateY(0);
+		transform: translateY(0);
+	}
+}
+
+@keyframes fadeInDown {
+	0% {
+		opacity: 0;
+		-webkit-transform: translateY(-20px);
+		-ms-transform: translateY(-20px);
+		transform: translateY(-20px);
+	}
+
+	100% {
+		opacity: 1;
+		-webkit-transform: translateY(0);
+		-ms-transform: translateY(0);
+		transform: translateY(0);
+	}
+}
